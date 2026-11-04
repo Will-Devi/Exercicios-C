@@ -1,0 +1,9 @@
+# Executaveis compilados
+hello
+mini-mercado
+rotina_fisica
+verificado_preco
+intencidade_chuva
+
+# Arquivos objeto
+*.o
